@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zh1206-Kaleid
-- 👀 I’m interested in AI/ML, Cloud computing, Cybersecurity, Data, Software development, Quantum computing
-- 🌱 I’m currently learning JScript, PHP, Laravel, React, Angular
-- 💞️ I’m looking to collaborate on AI-Cybersecurity-Quantum projects which mainly focused on security and exploring new technologies
+- 👀 I’m interested in AI/ML, Cloud computing, Cybersecurity, Data, Software development, application development(Android)
+- 🌱 I’m currently learning C+, JavaScript, PHP, Laravel, React, Angular, Kotlin
+- 💞️ I’m looking to collaborate on joint research and exploring new-unique technologies
 - 📫 How to reach me via zikrihayat.business@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm spiderman fan, coffee lover, food hunter, book enthusiasts
