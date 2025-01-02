@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mohammad Zikri Hayat bin Azmi
-- 👀 I’m investing in Cloud Computing | Cybersecurity | AI
-- 🌱 I’m continuously learning programming languange and scripting
+- 👋 Hi, I’m Zikri
+- 👀 I’m investing in Cloud Computing | Cybersecurity | AI/ML | DevOps
+- 🌱 I’m continuously learning programming languages and scriptings, linux, windows, networking, security, and cloud computing-cybersecurity related
 - 💞️ I’m looking to collaborate on joint research and exploring new-unique technologies
 - 📫 Reach me via zikrihayat.business@gmail.com
 - 😄 Pronouns: he/him
