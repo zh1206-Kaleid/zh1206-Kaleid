@@ -1,3 +1,32 @@
-- name: Setup GitHub CLI
-uses: sersoft-gmbh/setup-gh-cli-action@v2.0.1
-            
+name: Setup and Use GitHub CLI
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  github_cli_demo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install GitHub CLI
+        run: |
+          sudo apt-get update
+          sudo apt-get install gh -y
+          gh --version
+
+      - name: Authenticate with GitHub CLI
+        run: |
+           echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
+           gh auth status
+
+      - name: Example usage of GitHub CLI
+        run: |
+           gh issue list --limit 5
+           gh pr list --limit 5
+           echo "Creating issue from a workflow"
+           gh issue create --title "Example Issue from Workflow" --body "This issue was created via GitHub Actions workflow with gh cli"
