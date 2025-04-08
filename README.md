@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Zikri
+- 👋 Hi, I’m Adam Muhaimin
 - 👀 I’m investing in Cybersecurity | AI
 - 🌱 I’m continuously learning programming languages and scriptings, linux, windows, networking, security
 - 💞️ I’m looking to collaborate on joint research and exploring new-unique technologies
-- 📫 Reach me via zikrihayat.business@gmail.com
+- 📫 Reach me via haseharuo33@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Book lover, tech enthusiasts, language
 
