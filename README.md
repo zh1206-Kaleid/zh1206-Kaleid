@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Adam Muhaimin
-- 👀 I’m investing in Cybersecurity | AI
+- 👋 Hi, I’m Zikri Hayat
+- 👀 I’m investing in Data Science | AI | ML | Cybersecurity
 - 🌱 I’m continuously learning programming languages and scriptings, linux, windows, networking, security
-- 💞️ I’m looking to collaborate on joint research and exploring new-unique technologies
+- 💞️ I’m looking into join collaboration and exploring interdisciplinary research
 - 📫 Reach me via haseharuo33@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Book lover, tech enthusiasts, language
